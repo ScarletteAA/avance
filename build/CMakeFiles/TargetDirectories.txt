@@ -1,0 +1,9 @@
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/Experimental.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/Nightly.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/Continuous.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/Taller1.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/PACKAGE.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/CMakeFiles/ZERO_CHECK.dir

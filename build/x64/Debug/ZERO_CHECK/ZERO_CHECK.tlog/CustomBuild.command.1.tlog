@@ -1,0 +1,10 @@
+^C:\USERS\SCARL\ONEDRIVE\ESCRITORIO\U\ESTRUCTURA\TALLER C++\BUILD\CMAKEFILES\94E63BD5088D3D1D222EE532A4FBDDDF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++" "-BC:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/scarl/OneDrive/Escritorio/U/Estructura/Taller c++/build/Taller1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

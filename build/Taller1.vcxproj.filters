@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\scarl\OneDrive\Escritorio\U\Estructura\Taller c++\src\logic\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scarl\OneDrive\Escritorio\U\Estructura\Taller c++\src\logic\Persona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scarl\OneDrive\Escritorio\U\Estructura\Taller c++\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\scarl\OneDrive\Escritorio\U\Estructura\Taller c++\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4C10845-77E4-348D-9225-95E55FA9C696}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
